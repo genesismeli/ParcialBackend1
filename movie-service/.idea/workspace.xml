@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="de58f402-fa74-443d-8802-c94f6a6315ea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../catalog-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../catalog-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../catalog-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../catalog-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catalog-service/src/main/java/com/dh/catalogservice/api/client/IMovieServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../catalog-service/src/main/java/com/dh/catalogservice/api/client/IMovieServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dh/movieservice/domain/data/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dh/movieservice/domain/data/DataLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

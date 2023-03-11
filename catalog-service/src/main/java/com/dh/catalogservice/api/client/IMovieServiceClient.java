@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 
 import java.util.List;
 
-@FeignClient(name = "movie-service-parcial")
+@FeignClient(name = "movie-service")
 public interface IMovieServiceClient {
     @GetMapping("/movies/{genre}")
     List<Movie> getMoviesByCatalog(@PathVariable String genre);
