@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4fcf77f-3913-40d1-9551-fdcdfaf141ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/src/main/java/com/dh/elkin/apigateway/ApiGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/java/com/dh/apigateway/ApiGatewayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gateway/src/test/java/com/dh/elkin/apigateway/ApiGatewayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/test/java/com/dh/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
