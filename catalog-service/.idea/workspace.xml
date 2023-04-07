@@ -6,8 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="f4fcf77f-3913-40d1-9551-fdcdfaf141ff" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../serie-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../serie-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
