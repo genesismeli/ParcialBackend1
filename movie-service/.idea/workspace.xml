@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de58f402-fa74-443d-8802-c94f6a6315ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/src/main/java/com/dh/configserver/ConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/src/test/java/com/dh/configserver/ConfigServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FinalBackend/ParcialBackend1/movie-service/src/main/java/com/dh/movieservice/domain/model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FinalBackend/ParcialBackend1/movie-service/src/main/java/com/dh/movieservice/domain/model/Movie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +25,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -25,9 +37,9 @@
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
-        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
   </component>
@@ -35,14 +47,10 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MhwIgoqpyMJ9npWdOc5hDTYfBm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Application.MovieServiceApplication">
     <configuration name="MovieServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -85,7 +93,10 @@
       <workItem from="1678411635955" duration="305000" />
       <workItem from="1678414456810" duration="3529000" />
       <workItem from="1678418486940" duration="607000" />
-      <workItem from="1678419477941" duration="607000" />
+      <workItem from="1678419477941" duration="1204000" />
+      <workItem from="1678479411794" duration="220000" />
+      <workItem from="1678504922454" duration="1467000" />
+      <workItem from="1678570152757" duration="377000" />
     </task>
     <servers />
   </component>
