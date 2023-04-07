@@ -17,7 +17,6 @@
       <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/src/main/java/com/dh/configserver/ConfigServerApplication.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Backend-2/config-server (1)/config-server/src/test/java/com/dh/configserver/ConfigServerApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../FinalBackend/ParcialBackend1/movie-service/src/main/java/com/dh/movieservice/domain/model/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FinalBackend/ParcialBackend1/movie-service/src/main/java/com/dh/movieservice/domain/model/Movie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
